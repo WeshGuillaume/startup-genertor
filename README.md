@@ -1,6 +1,8 @@
 # startup-genertor
 
-## Entreprises
+Ajoutez ce que vous voulez.
+
+## Le:
  - Airbnb
  - Twitter
  - Snapchat
@@ -9,4 +11,14 @@
  - Instagram
  - Mailjet
  - Google Maps
- - 
+ - Tumblr
+ - MySpace
+ - Tinder
+
+## Du:
+
+## Des:
+
+## De la:
+
+## De l':
