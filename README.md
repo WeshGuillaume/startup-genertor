@@ -1,2 +1,12 @@
 # startup-genertor
-Le airbnb des générateurs
+
+## Entreprises
+ - Airbnb
+ - Twitter
+ - Snapchat
+ - Uber
+ - Facebook
+ - Instagram
+ - Mailjet
+ - Google Maps
+ - 
