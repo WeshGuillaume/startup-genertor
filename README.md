@@ -2,7 +2,7 @@
 
 Ajoutez ce que vous voulez.
 
-## Le:
+the
  - Airbnb
  - Twitter
  - Snapchat
@@ -15,10 +15,5 @@ Ajoutez ce que vous voulez.
  - MySpace
  - Tinder
 
-## Du:
-
-## Des:
-
-## De la:
-
-## De l':
+of
+  - singing
